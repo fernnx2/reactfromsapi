@@ -1,0 +1,1 @@
+export const URL = "http://localhost:8080/springboot-0.0.1-SNAPSHOT/"
